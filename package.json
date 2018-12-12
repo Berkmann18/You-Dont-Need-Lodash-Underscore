@@ -29,11 +29,11 @@
     "kebab-case": "^1.0.0"
   },
   "devDependencies": {
-    "coveralls": "^2.11.9",
-    "eslint": "^3.0.0",
+    "coveralls": "^3.0.2",
+    "eslint": "^5.10.0",
     "istanbul": "^0.4.4",
     "lodash": "^4.17.4",
-    "mocha": "^4.1.0"
+    "mocha": "^5.2.0"
   },
   "engines": {
     "node": ">=4.0"
